@@ -1,0 +1,6 @@
+netsys.cs.colorado.edu,198.59.7.17
+ajax.googleapis.com,142.250.72.74
+www.httpvshttps.com,45.33.7.16
+web.cs.wpi.edu,130.215.29.52
+cebook.com,199.59.243.200
+detectportal.firefox.com,34.107.221.82
