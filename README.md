@@ -1,6 +1,6 @@
 README
 
-Usage: ./webproxy <port> <cache timeout>
+Usage: ./webproxy \<port\> \<cache timeout\>
 
 make clean -> remove the cache and the logs
 make -> compile the proxy
